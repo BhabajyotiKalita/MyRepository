@@ -1,3 +1,2 @@
 # MyRepository
-This is my first repository.
-Hello World
+This Repository is created for testing.
